@@ -94,21 +94,15 @@ All analysis was conducted using **Pivot Tables** and **Pivot Charts** in Excel.
 - **Interactivity**:
   - Slicers allow filtering the dashboard by key fields for custom insights.
 
+### 📊 Excel Dashboard Visual
+
+This Excel dashboard provides an interactive overview of sales metrics, including KPIs, payment distribution, product line performance, and warehouse trends.
+
+#### 📸 Full Dashboard View
+
+<img src="Sales%20Dashboard%20Screenshot.png" alt="Sales Dashboard Screenshot" width="800"/>
+
 ---
-
-### Power BI Visuals
-
-To provide a more comprehensive understanding of the data, here are the Power BI visualizations used in this analysis:
-
-#### Employee Overview Page
-Provides an overview of the workforce distribution, including gender, location, and racial composition.
-<img width="758" alt="image" src="https://github.com/user-attachments/assets/09da992d-0adc-4c1f-9093-a2c2e8285421" />
-
-
-#### Department and Age Breakdown Page
-Focuses on department-level analysis, including gender distribution by department, age group breakdown, and termination rates.
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/a18a410e-af65-41c6-9c12-94fe9c5a6178" />
-
 
 ## Recommendations
 
